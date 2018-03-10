@@ -1,0 +1,5 @@
+/Users/Tom/Projects/SalesCompany/Company.Models/bin/Debug/Company.Models.dll
+/Users/Tom/Projects/SalesCompany/Company.Models/bin/Debug/Company.Models.pdb
+/Users/Tom/Projects/SalesCompany/Company.Models/obj/Debug/Company.Models.csproj.CoreCompileInputs.cache
+/Users/Tom/Projects/SalesCompany/Company.Models/obj/Debug/Company.Models.dll
+/Users/Tom/Projects/SalesCompany/Company.Models/obj/Debug/Company.Models.pdb

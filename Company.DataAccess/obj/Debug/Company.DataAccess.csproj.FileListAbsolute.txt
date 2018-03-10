@@ -1,0 +1,5 @@
+/Users/Tom/Projects/SalesCompany/Company.DataAccess/bin/Debug/Company.DataAccess.dll
+/Users/Tom/Projects/SalesCompany/Company.DataAccess/bin/Debug/Company.DataAccess.pdb
+/Users/Tom/Projects/SalesCompany/Company.DataAccess/obj/Debug/Company.DataAccess.csproj.CoreCompileInputs.cache
+/Users/Tom/Projects/SalesCompany/Company.DataAccess/obj/Debug/Company.DataAccess.dll
+/Users/Tom/Projects/SalesCompany/Company.DataAccess/obj/Debug/Company.DataAccess.pdb

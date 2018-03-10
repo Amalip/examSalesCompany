@@ -1,0 +1,1 @@
+/Users/Tom/Projects/SalesCompany/Company.Services/obj/Debug/Company.Services.csproj.CoreCompileInputs.cache

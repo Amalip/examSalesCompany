@@ -1,0 +1,6 @@
+/Users/Tom/Projects/SalesCompany/Company.BusinessLogic.Tasks/bin/Debug/Company.BusinessLogic.Tasks.dll
+/Users/Tom/Projects/SalesCompany/Company.BusinessLogic.Tasks/bin/Debug/Company.BusinessLogic.Tasks.pdb
+/Users/Tom/Projects/SalesCompany/Company.BusinessLogic.Tasks/obj/Debug/Company.BusinessLogic.Tasks.csprojResolveAssemblyReference.cache
+/Users/Tom/Projects/SalesCompany/Company.BusinessLogic.Tasks/obj/Debug/Company.BusinessLogic.Tasks.csproj.CoreCompileInputs.cache
+/Users/Tom/Projects/SalesCompany/Company.BusinessLogic.Tasks/obj/Debug/Company.BusinessLogic.Tasks.dll
+/Users/Tom/Projects/SalesCompany/Company.BusinessLogic.Tasks/obj/Debug/Company.BusinessLogic.Tasks.pdb

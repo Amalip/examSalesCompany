@@ -1,0 +1,5 @@
+/Users/Tom/Projects/SalesCompany/Company.BusinessLogic.Tasks/Company.BusinessLogic.Entities/bin/Debug/Company.BusinessLogic.Entities.dll
+/Users/Tom/Projects/SalesCompany/Company.BusinessLogic.Tasks/Company.BusinessLogic.Entities/bin/Debug/Company.BusinessLogic.Entities.pdb
+/Users/Tom/Projects/SalesCompany/Company.BusinessLogic.Tasks/Company.BusinessLogic.Entities/obj/Debug/Company.BusinessLogic.Entities.csproj.CoreCompileInputs.cache
+/Users/Tom/Projects/SalesCompany/Company.BusinessLogic.Tasks/Company.BusinessLogic.Entities/obj/Debug/Company.BusinessLogic.Entities.dll
+/Users/Tom/Projects/SalesCompany/Company.BusinessLogic.Tasks/Company.BusinessLogic.Entities/obj/Debug/Company.BusinessLogic.Entities.pdb
