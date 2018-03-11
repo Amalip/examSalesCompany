@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -30,8 +30,18 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyClass.cs" />
+    <Compile Include="ProductTask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Company.Models\Company.Models.csproj">
+      <Project>{ce1425d2-1046-44a7-8cc9-13105083f915}</Project>
+      <Name>Company.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="Company.BusinessLogic.Entities\Company.BusinessLogic.Entities.csproj">
+      <Project>{9cdaee66-6427-4c7f-ac14-0f4e75e8abe3}</Project>
+      <Name>Company.BusinessLogic.Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

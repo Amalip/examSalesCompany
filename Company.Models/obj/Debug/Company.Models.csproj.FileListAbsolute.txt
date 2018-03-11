@@ -3,3 +3,14 @@
 /Users/Tom/Projects/SalesCompany/Company.Models/obj/Debug/Company.Models.csproj.CoreCompileInputs.cache
 /Users/Tom/Projects/SalesCompany/Company.Models/obj/Debug/Company.Models.dll
 /Users/Tom/Projects/SalesCompany/Company.Models/obj/Debug/Company.Models.pdb
+C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\bin\Debug\Company.Models.dll.config
+C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\bin\Debug\Company.Models.dll
+C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\bin\Debug\Company.Models.pdb
+C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\bin\Debug\Dapper.dll
+C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\bin\Debug\MySql.Data.dll
+C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\bin\Debug\Dapper.pdb
+C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\bin\Debug\Dapper.xml
+C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\obj\Debug\Company.Models.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\obj\Debug\Company.Models.csproj.CopyComplete
+C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\obj\Debug\Company.Models.dll
+C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\obj\Debug\Company.Models.pdb
