@@ -8,7 +8,7 @@ namespace Company.Models.Interfaces
 {
     public interface MSaleDAO<T>
     {
-        List<T> GetSalesReport();
+        //List<T> GetSalesReport();
         T MakeSale(T entity);
         T UpdateSale(T entity);
     }

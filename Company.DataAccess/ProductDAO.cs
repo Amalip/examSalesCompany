@@ -32,21 +32,6 @@ namespace Company.DataAccess
             }
         }
 
-        public Product MakeSale(Product entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void RemoveFromCart(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Product UpdateCart(Product entity)
-        {
-            throw new NotImplementedException();
-        }
-
         public List<Product> GetProductsByCategoryId(int id)
         {
             var parameters = new DynamicParameters();

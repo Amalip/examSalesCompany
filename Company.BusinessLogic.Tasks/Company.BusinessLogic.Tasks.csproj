@@ -32,6 +32,7 @@
   <ItemGroup>
     <Compile Include="ProductTask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaleTask.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Company.Models\Company.Models.csproj">

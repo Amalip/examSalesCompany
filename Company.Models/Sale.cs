@@ -8,9 +8,9 @@ namespace Company.Models
 {
     public class Sale
     {
-        public int Id { get; set; }
-        public int IdClient { get; set; }
-        public DateTime SaleDate { get; set; }
-        public bool Status { get; set; }
+        public int Id_sales{ get; set; }
+        public int Id_client { get; set; }
+        public DateTime Sale_date { get; set; }
+        public bool Sale_status { get; set; }
     }
 }

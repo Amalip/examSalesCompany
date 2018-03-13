@@ -43,7 +43,7 @@
     <Compile Include="ProductDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SalesDAO.cs" />
-    <Compile Include="ShoppingCartDAO.cs" />
+    <Compile Include="SalesDetailDAO.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Company.Models\Company.Models.csproj">

@@ -14,3 +14,4 @@ C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\ob
 C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\obj\Debug\Company.Models.csproj.CopyComplete
 C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\obj\Debug\Company.Models.dll
 C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\obj\Debug\Company.Models.pdb
+C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\obj\Debug\Company.Models.csprojResolveAssemblyReference.cache

@@ -12,10 +12,10 @@ namespace Company.BusinessLogic.Entities
     {
         readonly SalesDAO _salesDAO = new SalesDAO();
 
-        public List<Sale> GetSalesReport()
-        {
-            return _salesDAO.GetSalesReport();
-        }
+        //public List<Sale> GetSalesReport()
+        //{
+        //    return _salesDAO.GetSalesReport();
+        //}
 
         public Sale MakeSale (Sale sale)
         {

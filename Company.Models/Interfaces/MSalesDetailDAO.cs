@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.DataAccess
+namespace Company.Models.Interfaces
 {
-    public class ShoppingCartDAO
+    public interface MSalesDetailDAO<T>
     {
-
+        T CreateSaleDetail(T entity);
     }
 }

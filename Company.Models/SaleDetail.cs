@@ -8,10 +8,11 @@ namespace Company.Models
 {
     public class SaleDetail
     {
-        public int IdSaleDetail { get; set; }
-        public int IdProduct { get; set; }
-        public int ProductQuantity { get; set; }
-        public float UnitCost { get; set; }
-        public float Total { get; set; }
+        public int Id_sale_detail { get; set; }
+        public int Id_product { get; set; }
+        public int Id_sale { get; set; }
+        public int Product_cuantity { get; set; }
+        public float Unit_price { get; set; }
+        public float Total_Cost { get; set; }
     }
 }
