@@ -11,5 +11,6 @@ namespace Company.Models.Interfaces
         //List<T> GetSalesReport();
         T MakeSale(T entity);
         T UpdateSale(T entity);
+        
     }
 }

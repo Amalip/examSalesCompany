@@ -34,6 +34,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SalesBLL.cs" />
     <Compile Include="SalesDetailBLL.cs" />
+    <Compile Include="SalesReportBLL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Company.DataAccess\Company.DataAccess.csproj">

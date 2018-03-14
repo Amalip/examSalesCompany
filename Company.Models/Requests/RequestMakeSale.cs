@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Company.Models.Requests
 {
-    public class RequestMakeSale
+    public class RequestUpdateStatus
     {
         public Sale SaleData { get; set; }
         public List<SaleDetail> SaleDetailData { get; set; }

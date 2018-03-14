@@ -26,6 +26,7 @@ namespace Company.DataAccess
                 parameters.Add("p_product_cuantity", entity.Product_cuantity);
                 parameters.Add("p_unit_price", entity.Unit_price);
                 parameters.Add("p_total_cost", entity.Total_Cost);
+                parameters.Add("p_id_sale_detail", dbType: DbType.Int32, direction: ParameterDirection.Output);
 
 
                 conn.Execute("sp_sale_detail_save", parameters, commandType: CommandType.StoredProcedure);

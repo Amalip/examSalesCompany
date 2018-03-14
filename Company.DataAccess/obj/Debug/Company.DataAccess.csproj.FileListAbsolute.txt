@@ -18,3 +18,17 @@ C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.DataAcces
 C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.DataAccess\obj\Debug\Company.DataAccess.csproj.CopyComplete
 C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.DataAccess\obj\Debug\Company.DataAccess.dll
 C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.DataAccess\obj\Debug\Company.DataAccess.pdb
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\bin\Debug\Company.DataAccess.dll.config
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\bin\Debug\Company.DataAccess.dll
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\bin\Debug\Company.DataAccess.pdb
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\bin\Debug\Company.Models.dll
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\bin\Debug\Dapper.dll
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\bin\Debug\Company.Models.pdb
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\bin\Debug\Company.Models.dll.config
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\bin\Debug\Dapper.pdb
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\bin\Debug\Dapper.xml
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\obj\Debug\Company.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\obj\Debug\Company.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\obj\Debug\Company.DataAccess.dll
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.DataAccess\obj\Debug\Company.DataAccess.pdb

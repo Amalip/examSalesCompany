@@ -15,3 +15,14 @@ C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\ob
 C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\obj\Debug\Company.Models.dll
 C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\obj\Debug\Company.Models.pdb
 C:\Users\Thomas\Documents\GitHub\SalesCompany\examSalesCompany\Company.Models\obj\Debug\Company.Models.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.Models\bin\Debug\Company.Models.dll.config
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.Models\bin\Debug\Company.Models.dll
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.Models\bin\Debug\Company.Models.pdb
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.Models\bin\Debug\Dapper.dll
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.Models\bin\Debug\MySql.Data.dll
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.Models\bin\Debug\Dapper.pdb
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.Models\bin\Debug\Dapper.xml
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.Models\obj\Debug\Company.Models.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.Models\obj\Debug\Company.Models.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.Models\obj\Debug\Company.Models.dll
+C:\Users\Tom\Documents\GitHub\examSalesCompany\Company.Models\obj\Debug\Company.Models.pdb

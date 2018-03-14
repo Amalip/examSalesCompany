@@ -42,6 +42,7 @@
     <Compile Include="Interfaces\MProductDAO.cs" />
     <Compile Include="Interfaces\MSaleDAO.cs" />
     <Compile Include="Interfaces\MSalesDetailDAO.cs" />
+    <Compile Include="Interfaces\MSalesReportDAO.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Requests\ProductRequest.cs" />
@@ -49,6 +50,7 @@
     <Compile Include="Responses\APIResponse.cs" />
     <Compile Include="Sale.cs" />
     <Compile Include="SaleDetail.cs" />
+    <Compile Include="SalesReport.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

@@ -1,4 +1,5 @@
-﻿using Company.BusinessLogic.Tasks;
+﻿using Company.BusinessLogic.Entities;
+using Company.BusinessLogic.Tasks;
 using Company.Models;
 using Company.Models.Requests;
 using Company.Models.Responses;
@@ -19,7 +20,7 @@ namespace Company.Services.Controllers
     {
         [HttpPost]
         [Route("sell")]
-        public HttpResponseMessage MakeNewSale([FromBody] RequestMakeSale request)
+        public HttpResponseMessage MakeNewSale([FromBody] RequestUpdateStatus request)
         {
             var response = new APIResponse<Sale>();
 
@@ -35,6 +36,30 @@ namespace Company.Services.Controllers
             {
                 response.HttpStatusCode = HttpStatusCode.InternalServerError;
                 response.Message = "Error making sale";
+                response.HasError = true;
+            }
+
+            return Request.CreateResponse(response.HttpStatusCode, response);
+        }
+
+        [HttpPut]
+        [Route("updatestatus")]
+        public HttpResponseMessage UpdateStatus([FromBody] Sale sale)
+        {
+            var response = new APIResponse<Sale>();
+
+            try
+            {
+                var updateLogic = new SalesBLL();
+                var newStatus = updateLogic.UpdateSale(sale);
+                response.Data = newStatus;
+                response.Message = "Status changed correctly";
+                response.HttpStatusCode = HttpStatusCode.OK;
+            }
+            catch (Exception e)
+            {
+                response.HttpStatusCode = HttpStatusCode.InternalServerError;
+                response.Message = "Error updating sale";
                 response.HasError = true;
             }
 
